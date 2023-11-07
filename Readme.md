@@ -13,3 +13,11 @@ e) "Greatest % increase"
 f) "Greatest % decrease"
 g) "Greatest total volume".
 
+
+the following websites were reffered
+
+   
+' https://www.techonthenet.com/excel/formulas/format_string.php
+' https://learn.microsoft.com/en-us/office/vba/api/excel.range.numberformat
+
+
